@@ -33,7 +33,7 @@ Generate and display a confusion_matrix using seaborn.heatmap.
 /*
 Program to implement SVM for food classification for diabetic patients.
 Developed by: Tharun N
-RegisterNumber:  25014651
+RegisterNumber: 212225240173
 
 # Import necessary libraries
 import pandas as pd
